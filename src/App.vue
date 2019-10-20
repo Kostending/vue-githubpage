@@ -4,7 +4,8 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/wishes">Ønskeseddel</router-link>
+      <router-link to="/wishes">Ønskeseddel</router-link> |
+      <router-link to="/house">Hus</router-link>
     </div>
     <router-view/>
   </div>

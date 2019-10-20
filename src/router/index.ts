@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+//@ts-ignore
 import VueMaterial from 'vue-material'
 import 'vue-material/dist/vue-material.min.css'
 
@@ -21,6 +22,14 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/Wishes.vue')
+  },
+  {
+    path: '/house',
+    name: 'house',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/House.vue')
   }
 ]
 

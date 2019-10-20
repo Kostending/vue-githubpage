@@ -33,21 +33,7 @@ import WishCard from '@/components/WishCard.vue';
 export default class WishList extends Vue {
   data() {
     return {
-      myWishes: wishes.myWishes,
-      yo: [
-        {
-          'title': 'hello',
-          id: 0
-        },
-        {
-          'title': 'world',
-          id: 1
-        },
-        {
-          'title': 'world',
-          id: 2
-        }
-      ]
+      myWishes: wishes.myWishes
     }
   }
 }
