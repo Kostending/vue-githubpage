@@ -1,6 +1,5 @@
 <template>
-<!-- <p> {{myWishes}} </p> -->
-<div class="md-layout md-gutter" :class="`md-alignment-top-center`">
+<div class="md-layout md-gutter md-alignment-top-center">
   <div class="full-control md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-33 md-small-size-50 md-xsmall-size-100">
     <div class="list">
       <md-list :md-expand-single="true">

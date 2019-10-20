@@ -2,6 +2,7 @@
   <div class="home">
     <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     <!-- <wish-list msg="Welcome to Your Vue.js App"/> -->
+    <h1 class="md-headline">Ønskeseddel</h1>
     <wish-list/>
   </div>
 </template>
