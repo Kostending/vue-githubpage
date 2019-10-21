@@ -6,7 +6,8 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/wishes">Ønskeseddel</router-link> |
       <router-link to="/house">Hus</router-link> |
-      <router-link to="/nurse">Sygeplejerske</router-link>
+      <router-link to="/nurse">Sygeplejerske</router-link> |
+      <router-link to="/movielist">Filmliste</router-link>
     </div>
     <router-view/>
   </div>

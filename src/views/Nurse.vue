@@ -29,7 +29,7 @@
 import Countdown from '@/components/Countdown.vue';
 
 export default {
-  name: 'house',
+  name: 'nurse',
   components: {
     Countdown
   }
