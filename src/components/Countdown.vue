@@ -14,15 +14,12 @@ import WishCard from '@/components/WishCard.vue';
 export default class Countdown extends Vue {
   @Prop() private doneTime!: number;
 
-  data() {
-    return {
-      now: new Date().getTime(),
-      days: 0,
-      hours: 0,
-      minutes: 0,
-      seconds: 0
-    }
-  }
+  now: number = new Date().getTime();
+  days: number = 0;
+  hours: number = 0;
+  minutes: number = 0;
+  seconds: number = 0;
+
   setCountDown() {
     this.now = new Date().getTime();
     let diff = this.doneTime - this.now;
@@ -38,8 +35,3 @@ export default class Countdown extends Vue {
   }
 }
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-
-</style>

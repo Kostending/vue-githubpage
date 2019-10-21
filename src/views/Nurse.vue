@@ -55,4 +55,8 @@ export default {
 .naal-image-container {
   padding-top: 20px;
 }
+
+.counter {
+  font-size: 1.5em;
+}
 </style>
