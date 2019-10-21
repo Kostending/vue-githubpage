@@ -5,7 +5,8 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/wishes">Ønskeseddel</router-link> |
-      <router-link to="/house">Hus</router-link>
+      <router-link to="/house">Hus</router-link> |
+      <router-link to="/nurse">Sygeplejerske</router-link>
     </div>
     <router-view/>
   </div>

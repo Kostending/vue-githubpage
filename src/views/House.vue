@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 .house {
-  background: url('../assets/hus.png') no-repeat center center fixed; 
+  background: url('../assets/house/hus.png') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
