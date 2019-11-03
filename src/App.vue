@@ -7,7 +7,8 @@
       <router-link to="/wishes">Ønskeseddel</router-link> |
       <router-link to="/house">Hus</router-link> |
       <router-link to="/nurse">Sygeplejerske</router-link> |
-      <router-link to="/movielist">Filmliste</router-link>
+      <router-link to="/movielist">Filmliste</router-link> 
+      <!-- <router-link to="/game">Game</router-link> -->
     </div>
     <router-view/>
   </div>
