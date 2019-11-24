@@ -61,6 +61,12 @@
             "image": "https://www.pricerunner.dk/product/1200x630/1871587345/Google-Nest-Hub.jpg"
         },
         {
+            "title": "Google Nest Mini",
+            "subtitle": "2. generation",
+            "link": "https://www.elgiganten.dk/product/smart-home/stemmestyrring-og-medieafspillere/54861/google-nest-mini-2-generation-charcoal",
+            "image": "https://www.elgiganten.dk/image/dv_web_D180001002303926/54861/google-nest-mini-2-generation-charcoal.jpg?$fullsize$"
+        },
+        {
             "title": "Loddestation",
             "link": "https://www.av-cables.dk/loddekolbe-2/loddestation-48-w.html?gclid=CjwKCAjwwvfrBRBIEiwA2nFiPfQnOBJ_2CGsuO5LmEAaaE1o3VucHc1d9K93eEockcfkyxouSLXGkhoCqmUQAvD_BwE",
             "image": "https://www.avxperten.dk/billeder/loddestation-48w-big.jpg"
@@ -72,10 +78,21 @@
             "image": "https://cdn.imercostatic.dk/produktbilleder/rosendahl-grand-cru-oelglas-2-stk-50-cl.jpg?i=5709513353553_5709513353553_1&t=20171006075559&w=600&h=600"
         },
         {
-            "title": "Munchkin brætspil",
+            "title": "Munchkin - brætspil",
             "link": "https://www.gamesweb.dk/braetspil/voksenspil/alle-voksenspil/3305/munchkin-zombies",
             "subtitle": "F.eks. Munchkin Zombies",
             "image": "https://www.gamesweb.dk/dyn/resources/Shop_Model_Product/image/5/3305/1497953806/responsive/16836.jpg"
+        },
+        {
+            "title": "Exit: Den forladte Hytte - brætspil",
+            "link": "https://www.gamesweb.dk/braetspil/voksenspil/prisvindere/9312/exit-den-forladte-hytte",
+            "subtitle": "Der er flere slags af dette spil",
+            "image": "https://www.gamesweb.dk/dyn/resources/Shop_Model_Product/image/2/9312/1527856189/responsive/29423.jpg"
+        },
+        {
+            "title": "Catan: Inkarigets fødsel - brætspil",
+            "link": "https://www.gamesweb.dk/braetspil/voksenspil/handel-ressource/10595/catan-inkarigets-foedsel",
+            "image": "https://www.gamesweb.dk/dyn/resources/Shop_Model_Product/image/5/10595/1566212628/responsive/32024.jpg"
         },
         {
             "title": "Robotplæneklipper",
@@ -106,12 +123,6 @@
             "image": "https://www.elgiganten.dk/image/dv_web_D18000100249643/HUEMOTIONP/philips-hue-bevaegelsessensor.jpg"
         },
         {
-            "title": "Philips Hue White ambiance Buckram tredobbelt spotlys",
-            "subtitle": "Sort eller hvis - Der er flere stile af dem, så måske hør Stine hvad der er pænt 🤷",
-            "link": "https://www.elgiganten.dk/product/smart-home/smart-belysning/13962/philips-hue-white-ambiance-buckram-tredobbelt-spotlys-sort",
-            "image": "https://www.elgiganten.dk/image/dv_web_D180001002175716/13962/philips-hue-white-ambiance-buckram-tredobbelt-spotlys-sort.jpg?$prod_all4one$"
-        },
-        {
             "title": "Philips Hue Play lysbar",
             "subtitle": "Sort - kommer også i dobbelt pakke",
             "link": "https://www.elgiganten.dk/product/smart-home/smart-belysning/13732/philips-hue-play-lysbar-enkeltpakke-sort-7820130p7",
@@ -130,12 +141,6 @@
             "image": "https://www.elgiganten.dk/image/dv_web_D180001002260911/46716/philips-hue-white-ambiance-traadloest-lysdaempersaet-85w-e27.jpg?$prod_all4one$"
         },
         {
-            "title": "Google Nest Mini",
-            "subtitle": "2. generation",
-            "link": "https://www.elgiganten.dk/product/husholdning/belysning/46716/philips-hue-white-ambiance-tradlost-lysdampersat-8-5w-e27",
-            "image": "https://www.elgiganten.dk/image/dv_web_D180001002303926/54861/google-nest-mini-2-generation-charcoal.jpg?$fullsize$"
-        },
-        {
             "title": "Skjorter",
             "subtitle": "Str. M"
         },
@@ -144,6 +149,104 @@
             "subtitle": "F.eks. ala på linket, men dem har jeg allerede. Noget i den stil str. w.31 l.32. jakkestæts str. 48 eller 50",
             "link": "https://www.boozt.com/dk/da/jack-jones/jjimarco-jjconnor-akm773-dg-check-noos_21145315/21145332?group=search&position=1000000",
             "image": "https://ean-images.booztcdn.com/jack-jones/1300x1700/jj12160583_cdarkgrey_v178193.jpg"
+        },
+        {
+            "title": "Bukser - H&M",
+            "subtitle": "Str. 48",
+            "link": "https://www2.hm.com/da_dk/productpage.0714032005.html",
+            "image": "https://lp2.hm.com/hmgoepprod?set=source[/e4/f7/e4f7faba3efe89b30f89b3297b086351cb271784.jpg],origin[dam],category[men_trousers_dressed],type[LOOKBOOK],res[x],hmver[1]&call=url[file:/product/fullscreen]"
+        },
+        {
+            "title": "Sonos One",
+            "subtitle": "Egenligt ønsker jeg mig bare en god højtaler med indbygget Google Assistant",
+            "link": "https://www.elgiganten.dk/product/smart-home/alle-smarte-produkter/22153/sonos-one-gen-2-hojttaler-sort",
+            "image": "https://www.elgiganten.dk/image/dv_web_D180001002212608/22153/sonos-one-gen-2-hoejttaler-sort.jpg?$fullsize$"
+        },
+        {
+            "title": "Google Mesh Netværk",
+            "subtitle": "En løsning til at dække hele huset med internet",
+            "link": "https://www.elgiganten.dk/product/smart-home/mesh-netvark/GWIFI3PACK/google-wi-fi-mesh-3-pakke-hvid",
+            "image": "https://www.elgiganten.dk/image/dv_web_D18000100246507/GWIFI3PACK/google-wi-fi-mesh-3-pakke-hvid.jpg?$fullsize$"
+        },
+        {
+            "title": "Gavekort til Playstation Store",
+            "subtitle": "Vil nok bruge købe sange til Beat Saber",
+            "link": "https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card",
+            "image": "https://www.elgiganten.dk/image/dv_web_D180001002275222/PSN200DKK/playstation-live-network-card-psn-ps4-ps3-psp-ps-vita-200-dkk.jpg?$fullsize$"
+        },
+        {
+            "title": "Astro Bot: Rescue Mission - PS4 Spil",
+            "link": "https://store.playstation.com/en-dk/product/EP9000-CUSA12392_00-PLATFORMERVR00EU?smcid=pdc%3Ada-dk%3Aexplore-playstation-plus-this-month-on-ps-plus%3Aprimary%2520nav%3Amsg-shop%3Aps-store",
+            "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DK/en/999/EP9000-CUSA12392_00-PLATFORMERVR00EU/1574444415000/image?w=480&h=480&bg_color=000000&opacity=100&_version=00_09_000"
+        },
+        {
+            "title": "Everybody's Golf VR - PS4 Spil",
+            "link": "https://store.playstation.com/en-dk/product/EP9000-CUSA14618_00-EBG000000000EU01?smcid=pdc%3Ada-dk%3Aexplore-playstation-plus-this-month-on-ps-plus%3Aprimary%2520nav%3Amsg-shop%3Aps-store",
+            "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DK/en/999/EP9000-CUSA14618_00-EBG000000000EU01/1574336795000/image?w=480&h=480&bg_color=000000&opacity=100&_version=00_09_000"
+        },
+        {
+            "title": "Borderlands 2 VR - PS4 Spil",
+            "link": "https://store.playstation.com/en-dk/product/EP1001-CUSA13946_00-000000000000BLVR?smcid=pdc%3Ada-dk%3Aexplore-playstation-plus-this-month-on-ps-plus%3Aprimary%2520nav%3Amsg-shop%3Aps-store",
+            "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/DK/en/999/EP1001-CUSA13946_00-000000000000BLVR/1574336803000/image?w=480&h=480&bg_color=000000&opacity=100&_version=00_09_000"
+        },
+        {
+            "title": "The Last of Us part 2 Special Edition - PS4 Spil",
+            "link": "https://www.gamestop.dk/PlayStation%204/Games/83491/the-last-of-us-part-ii-special-edition",
+            "image": "https://psmedia.playstation.com/is/image/psmedia/the-last-of-us-part-2-special-edition-column-image-01-ps4-25sep19_1569400878996?$Icon$"
+        },
+        {
+            "title": "God of War - PS4 Spil",
+            "link": "https://www.gamestop.dk/PlayStation%204/Games/51595/god-of-war",
+            "image": "https://media.gamestop.com/i/gamestop/10131619/God-of-War?$pdp$"
+        },
+        {
+            "title": "Aim Controller - PS4",
+            "subtitle": "Til Playstation VR",
+            "link": "https://www.proshop.dk/Spil-tilbehoer/Sony-Aim-Controller-VR-3D-bevaegelsesstyring-Sony-PlayStation-4/2659693",
+            "image": "https://c1-ebgames.eb-cdn.com.au/merchandising/images/packshots/eb16970b0ee14bc6b23dbb803726eb83_Large.jpg"
+        },
+        {
+            "title":"Plakat - Shit",
+            "subtitle":"60x90",
+            "link":"https://www.juniqe.dk/shit-premium-poster-portrait-639411.html",
+            "image":"https://rndr.juniqe-production.juniqe.com/template/view_in_room11/1000x/9b9dd751d92008112131c374ea21cfb53b441b3519e25ca18cc4fa4e70f05eaf/sku_301-21-101P-60x90/view_in_room.jpg"
+        },
+        {
+            "title":"Plakat - Pulp Fiction",
+            "subtitle":"40x60",
+            "link":"https://www.juniqe.dk/pulp-fiction-premium-poster-portrait-3857574.html",
+            "image":"https://rndr.juniqe-production.juniqe.com/template/view_in_room11/1000x/9b9dd751d92008112131c374ea21cfb53b441b3519e25ca18cc4fa4e70f05eaf/sku_301-21-101P-60x90/view_in_room.jpg"
+        },
+        {
+            "title":"Plakat - Llama",
+            "subtitle":"60x90 eler 80x120",
+            "link":"https://www.juniqe.dk/fashion-llama-premium-poster-portrait-3813450.html",
+            "image":"https://rndr.juniqe-production.juniqe.com/template/view_in_room4/1000x/d1671f962ee5bccb29b140499f3d53105ef0398439fac016c174a26812bd9550/sku_642-69-101P-60x90/view_in_room.jpg"
+        },
+        {
+            "title":"Plakat - Dinusaur",
+            "subtitle":"40x60",
+            "link":"https://www.juniqe.dk/dinosaurs-premium-poster-portrait-1123522.html",
+            "image":"https://rndr.juniqe-production.juniqe.com/template/view_in_room20/1000x/d4fb754718dd1d5d3a8b3767e48676b2f5b460c2c733338e159bcc34ab951b0e/sku_164-7-101P-40x60/view_in_room.jpg"
+        },
+        {
+            "title":"Plakat - Giraf",
+            "subtitle":"60x90 eller 80x120",
+            "link":"https://www.juniqe.dk/giraffe-premium-poster-portrait-1862280.html",
+            "image":"https://rndr.juniqe-production.juniqe.com/template/view_in_room20/1000x/d4fb754718dd1d5d3a8b3767e48676b2f5b460c2c733338e159bcc34ab951b0e/sku_642-14-101P-80x120/view_in_room.jpg"
+        },
+        {
+            "title":"Aerospike engine t-shirt",
+            "subtitle":"Fra Everyday Astronaut",
+            "link":"https://shop.everydayastronaut.com/products/aero-spike-t-shirt",
+            "image":"https://cdn.shopify.com/s/files/1/0043/0502/7185/products/Olive_1024x1024.png?v=1570122753"
+        },
+        {
+            "title":"Oh My Zsh - kop",
+            "subtitle":"En nørdet kop",
+            "link":"https://shop.planetargon.com/collections/oh-my-zsh/products/ohmyzsh-12oz-mug",
+            "image":"https://cdn.shopify.com/s/files/1/0101/8752/products/IMG_0500_large.jpg?v=1543630793"
         }
+
     ]
 }
