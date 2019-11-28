@@ -246,7 +246,23 @@
             "subtitle":"En nørdet kop",
             "link":"https://shop.planetargon.com/collections/oh-my-zsh/products/ohmyzsh-12oz-mug",
             "image":"https://cdn.shopify.com/s/files/1/0101/8752/products/IMG_0500_large.jpg?v=1543630793"
+        },
+        {
+            "title":"Paraply",
+            "subtitle":"Stor og flot og skal ikke kunne foldes sammen"
+        },
+        {
+            "title":"Regnbukser",
+            "subtitle":"Helt alm. sorte regnebukser"
+        },
+        {
+            "title":"Regnjakke",
+            "subtitle":"Skal kunne lynes op foran - må ikke være lang og sort siger Stine",
+            "image": "https://sw0576.smartweb-static.com/upload_dir/shop/020939_66_ClassicRainJacket_F.w610.h610.backdrop.jpg"
+        },
+        {
+            "title": "Gummistøvler",
+            "subtitle": "Flotte såvel som grimme"
         }
-
     ]
 }
