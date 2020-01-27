@@ -4,7 +4,7 @@
     <!-- <wish-list msg="Welcome to Your Vue.js App"/> -->
     <h1 class="md-headline"><md-icon>house</md-icon> Flytte til Siøvej 2 <md-icon>house</md-icon></h1>
     <!-- <wish-list/> -->
-    <countdown class="counter" :doneTime="new Date('Feb 1, 2020 12:00:00').getTime()"/>
+    <countdown class="counter" :doneTime="new Date('Jan 31, 2020 15:00:00').getTime()"/>
   </div>
 </template>
 
