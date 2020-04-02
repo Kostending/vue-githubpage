@@ -62,10 +62,20 @@
             "image": "https://cdn.imercostatic.dk/produktbilleder/rosendahl-grand-cru-oelglas-2-stk-50-cl.jpg?i=5709513353553_5709513353553_1&t=20171006075559&w=600&h=600"
         },
         {
+            "title": "Exit: The house of riddles",
+            "link": "https://www.gamesweb.dk/braetspil/escape-rooms/11036/exit-the-house-of-riddles",
+            "image": "https://thamesandkosmos.com/images/stories/virtuemart/product/Exit_House_of_Riddles_3DBox55.jpg"
+        },
+        {
             "title": "Munchkin: Zombies 2",
             "link": "https://www.gamesweb.dk/braetspil/udvidelser/3306/munchkin-zombies-2-armed-and-dangerous",
             "subtitle": "Udvidelse til grundspil",
             "image": "https://www.gamesweb.dk/dyn/resources/Shop_Model_Product/image/5/3305/1497953806/responsive/16836.jpg"
+        },
+        {
+            "title": "Betrayal at house on the hill",
+            "link": "https://www.gamesweb.dk/braetspil/samarbejdsspil/betrayalalle-mod-en/4321/betrayal-at-house-on-the-hill",
+            "image": "https://www.gamesweb.dk/dyn/resources/Shop_Model_Product/image/1/4321/1440502862/responsive/16219.jpg"
         },
         {
             "title": "Catan: Inkarigets fødsel - brætspil",
@@ -123,7 +133,7 @@
             "image": "https://ean-images.booztcdn.com/jack-jones/1300x1700/jj12160583_cdarkgrey_v178193.jpg"
         },
         {
-            "title": "Sonos One",
+            "title": "Sonos One gen. 2",
             "subtitle": "Egenligt ønsker jeg mig bare en god højtaler med indbygget Google Assistant",
             "link": "https://www.elgiganten.dk/product/smart-home/alle-smarte-produkter/22153/sonos-one-gen-2-hojttaler-sort",
             "image": "https://www.elgiganten.dk/image/dv_web_D180001002212608/22153/sonos-one-gen-2-hoejttaler-sort.jpg?$fullsize$"
@@ -222,12 +232,6 @@
             "image": "https://www.kunstogkokkentoj.dk/resources/product-images/5301100.jpg?width=1024&bgcolor=fff"
         },
         {
-            "title":"Dejdeler",
-            "subtitle":"12 cm",
-            "link": "Ved ikke størelse - måske 14 c://www.kunstogkokkentoj.dk/da/product/haandredskaber/dejdeler-12-x-12-cm",
-            "image": "https://www.kunstogkokkentoj.dk/resources/product-images/10105000.jpg?width=1024&bgcolor=fff"
-        },
-        {
             "title":"Regnjakke",
             "subtitle":"Skal kunne lynes op foran - må ikke være lang og sort siger Stine",
             "image": "https://sw0576.smartweb-static.com/upload_dir/shop/020939_66_ClassicRainJacket_F.w610.h610.backdrop.jpg"
@@ -236,6 +240,24 @@
             "title":"Ostelærred",
             "link":"https://www.kunstogkokkentoj.dk/da/product/klaede-fint",
             "image":"https://www.kunstogkokkentoj.dk/resources/product-images/11101700.jpg?width=1024&bgcolor=fff"
+        },
+        {
+            "title":"Rivejern",
+            "subtitle": "smalt/fint - microplane",
+            "link":"https://www.kunstogkokkentoj.dk/da/product/klaede-fint",
+            "image":"https://www.kunstogkokkentoj.dk/resources/product-images/8900200.jpg?width=800&height=600&bgcolor=fff"
+        },
+        {
+            "title":"Condibøtter",
+            "subtitle": "12x12, 18x12 eller 11x8",
+            "link":"https://www.kunstogkokkentoj.dk/da/products/?query=condi",
+            "image":"https://www.kunstogkokkentoj.dk/resources/product-images/8650200.jpg?width=800&height=600&bgcolor=fff"
+        },
+        {
+            "title":"Støbejernspande",
+            "subtitle": "24 cm eller der over",
+            "link":"https://www.kunstogkokkentoj.dk/da/product/pander/pande-stoebejern-oe-18-cm",
+            "image":"https://www.kunstogkokkentoj.dk/resources/product-images/800100.jpg?width=800&height=600&bgcolor=fff"
         },
         {
             "title": "Gummistøvler",
